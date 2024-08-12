@@ -8,6 +8,6 @@
 5. Set up Module Federation plugin to fetch those files
 6. In the Host, refactor the entry point to load asynchronously
 7. In the Host, import whatever  files you need from the remote
-8. 
+
 ### CSS Scoping
 Make sure css is scoped for specific page/project
